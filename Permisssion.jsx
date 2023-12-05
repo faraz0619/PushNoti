@@ -36,7 +36,9 @@ const Permission = () => {
   return (
     <View>
       <Text>Welcome to the Home Screen</Text>
-      {/* Add your home screen content here */}
+      <View>
+        <Text>Updated Code</Text>
+      </View>
     </View>
   );
 };
